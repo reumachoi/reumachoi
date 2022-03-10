@@ -22,7 +22,4 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reumaco99@gmail.com)](mailto:reumaco99@gmail.com)
 </div>
 
-<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">
-<img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">
-<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">
-<img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white"><img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white"><img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white"><img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
