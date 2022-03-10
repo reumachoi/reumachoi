@@ -11,10 +11,10 @@
 
 
 ### 경험
-- MLOps(Machine Learing Operation - Especially, ML/DL Model Production)
-- Google Cloud Platform(Especially, BigQuery)
-- Operation Research
-- Leadership, Mentoring, Writing, Presentation
+- 21.11.15 ~ 멀티캠퍼스 시큐어코딩 앱개발자 양성과정 진행중
+- 티스토리 블로그 작성중
+- 알고리즘 스터디 참가중
+
 
 <div align=center>
 
