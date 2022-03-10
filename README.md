@@ -11,7 +11,7 @@
 
 
 ### 자기소개
-- Machine Learing Engineer in Trasportation industry(Mobility - Car Sharing, Ride Hailing)
+- 웹 서버와 안드로이드 앱개발에 관심있는 개발지망생입니다
 
 
 ### 경험
