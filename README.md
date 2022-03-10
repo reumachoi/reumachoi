@@ -13,14 +13,11 @@
 ### 자기소개
 - 웹 서버와 안드로이드 앱개발에 관심있는 개발지망생입니다
 
-<hr/>
 ### 경험
 - 21.11.15 ~ 멀티캠퍼스 시큐어코딩 앱개발자 양성과정 진행중
 - 티스토리 블로그 작성중
 - 알고리즘 스터디 참가중
 
-
-<hr/>
 ### 기술스택
 <div>
 <img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
