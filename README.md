@@ -27,7 +27,7 @@
 
 ### 기술스택
 <div>
-<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white"><img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
 </div>
 
 
