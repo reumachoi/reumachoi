@@ -28,9 +28,10 @@
 | 2022.03.14 ~ 2022.04.18 | 파이널프로젝트 | 가게 큐레이션 앱 |  Html, Css, JS, Kotiln, Java, SpringBoot, MyBatis, Oracle |
 | 2022.06.28 ~ 2022.07.29 | 기업과제 팀프로젝트 | 백엔드 API 구현 |  JavaScript, TypeScript, NestJS, TypeORM, MySQL, AWS|
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=SuperAnt&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Back_repo&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=05-Sns-wanted-D&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=SuperAnt&theme=swift)](https://github.com/reumachoi/SuperAnt)
+	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Front_repo&theme=swift)](https://github.com/reumachoi/Eataewon_Front_repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Back_repo&theme=swift)](https://github.com/reumachoi/Eataewon_Back_repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=05-Sns-wanted-D&theme=swift)](https://github.com/reumachoi/05-Sns-wanted-D)
 	
 #
 	
