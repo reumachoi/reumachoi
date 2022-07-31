@@ -11,7 +11,9 @@
 <div align="center">
 
 ### 자기소개
-자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다🖐
+자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다🖐 <br/>
+안드로이드 앱개발도 해본 경험이 있으나 API구현에 더 재미를 느끼면서 현재는 백엔드 위주로 개발중입니다. <br/>
+
 #
 ### 활동
 | 기간 | 활동명 | 내용 |
@@ -24,9 +26,11 @@
 | ------ | -- |---------------- |---------------- |
 | 2022.01.11 ~ 2022.01.20|세미프로젝트 | 주식&부동산 커뮤니티 웹 | Html, Css, JS, Java, Spring, Oracle|
 | 2022.03.14 ~ 2022.04.18 | 파이널프로젝트 | 가게 큐레이션 앱 |  Html, Css, JS, Kotiln, Java, SpringBoot, MyBatis, Oracle |
+| 2022.06.28 ~ 2022.07.29 | 기업과제 팀프로젝트 | 백엔드 API 구현 |  JavaScript, TypeScript, NestJS, TypeORM, MySQL, AWS|
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=SuperAnt&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Back_repo&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=05-Sns-wanted-D&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 	
 #
 	
