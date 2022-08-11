@@ -11,8 +11,9 @@
 <div align="center">
 
 ### 자기소개
-자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다🖐 <br/>
+자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다. 🖐 <br/>
 안드로이드 앱개발도 해본 경험이 있으나 API구현에 더 재미를 느끼면서 현재는 백엔드 위주로 개발중입니다. <br/>
+저만의 속도로 나아가며 즐겁게 개발을 하고 싶습니다.
 
 #
 ### 활동
@@ -37,9 +38,11 @@
 	
 ### 기술스택
 <div>
-<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white"> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
 	<br/>
-	 <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+	<br/>
+	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 	
 </div>
 
 	
