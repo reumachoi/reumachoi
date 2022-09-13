@@ -12,7 +12,7 @@
 
 ### 자기소개
 자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다. 🖐 <br/>
-안드로이드 앱개발도 해본 경험이 있으나 API구현에 더 재미를 느끼면서 현재는 백엔드 위주로 개발중입니다. <br/>
+백엔드 개발을 하며 인프라 운영에도 관심이 있습니다. <br/>
 저만의 속도로 나아가며 즐겁게 개발을 하고 싶습니다.
 
 #
@@ -21,17 +21,21 @@
 | ------ | -- |---------------- |
 | 2021.11.15 ~ 2022.05.02|국비지원 수강 | 멀티캠퍼스 시큐어코딩 앱개발과정 수강 |
 | 2022.06.28 ~ 2022.07.29 | 원티드 프리온보딩 백엔드코스 | 기업과제 팀프로젝트 진행   |
+
+
 #
 ### 프로젝트
 | 기간 | 프로젝트명 | 내용 | 사용언어&프레임워크 |
 | ------ | -- |---------------- |---------------- |
-| 2022.01.11 ~ 2022.01.20|세미프로젝트 | 주식&부동산 커뮤니티 웹 | Html, Css, JS, Java, Spring, Oracle|
-| 2022.03.14 ~ 2022.04.18 | 파이널프로젝트 | 가게 큐레이션 앱 |  Html, Css, JS, Kotiln, Java, SpringBoot, MyBatis, Oracle |
+| 2022.01.11 ~ 2022.01.20|세미프로젝트 | 주식&부동산 커뮤니티 웹 | HTML, CSS, JS, Java, Spring, Oracle|
+| 2022.03.14 ~ 2022.04.18 | 파이널프로젝트 | 가게 큐레이션 앱 | HTML, CSS, JS, Kotiln, Java, SpringBoot, MyBatis, Oracle |
 | 2022.06.28 ~ 2022.07.29 | 기업과제 팀프로젝트 | 백엔드 API 구현 |  JavaScript, TypeScript, NestJS, TypeORM, MySQL, AWS|
+| 2022.09.05 ~ 2022.09.08 | 개인학습 | socket.io 연습 채팅방 | HTML, CSS, JS, ExpressJS, Socket.io |
 
-	[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Front_repo&theme=swift)](https://github.com/reumachoi/Eataewon_Front_repo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Front_repo&theme=swift)](https://github.com/reumachoi/Eataewon_Front_repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=Eataewon_Back_repo&theme=swift)](https://github.com/reumachoi/Eataewon_Back_repo)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=05-Sns-wanted-D&theme=swift)](https://github.com/reumachoi/05-Sns-wanted-D)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=reumachoi&repo=socket_chat&theme=swift)](https://github.com/reumachoi/socket_chat)
 	
 #
 	
