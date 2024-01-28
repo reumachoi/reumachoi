@@ -11,9 +11,9 @@
 <div align="center">
 
 ### 자기소개
-자바와 자바스크립트를 사용하는 백엔드 주니어 개발자입니다. 🖐 <br/>
-백엔드 개발을 하며 인프라 운영에도 관심이 있습니다. <br/>
-저만의 속도로 나아가며 즐겁게 개발을 하고 싶습니다.
+타입스크립트를 사용하는 백엔드 주니어 개발자입니다. 🖐 <br/>
+최근에는 쿠버네티스 환경의 인프라 운영 및 CI/CD에 관심이 있습니다. <br/>
+
 
 #
 ### 활동
@@ -41,11 +41,15 @@
 	
 ### 기술스택
 <div>
-<img src="https://img.shields.io/badge/Html-EF2D5E?style=for-the-badge&logo=Html&logoColor=white">  <img src="https://img.shields.io/badge/Css-FF9E0F?style=for-the-badge&logo=Css&logoColor=white">  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">  <img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  <img src="https://img.shields.io/badge/Kotlin-7E4DD2?style=for-the-badge&logo=Kotlin&logoColor=white">
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white">
+	<img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+	<img src="https://img.shields.io/badge/Java-3776AB?style=for-the-badge&logo=Java&logoColor=white">  
 	<br/>
-	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> <img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white">
+	<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white"> 
+	<img src="https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=NestJS&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"> 
+	<img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white">
 	<br/>
-	<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=white"> 	<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> 	
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white"> 	<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=Docker&logoColor=white"> <img src="https://img.shields.io/badge/kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white">	
 </div>
 
 	
