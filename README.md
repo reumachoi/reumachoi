@@ -2,7 +2,7 @@
 	
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Freumachoi&count_bg=%2393E356&title_bg=%23555555&icon=iconify.svg&icon_color=%23E7E7E7&title=visit&edge_flat=false)](https://hits.seeyoufarm.com)
 
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://cune-studyblog.tistory.com) 
+[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@reuma/posts) 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reumaco99@gmail.com)](mailto:reumaco99@gmail.com)
 </div>
 	
@@ -11,9 +11,9 @@
 <div align="center">
 
 ### 자기소개
-타입스크립트를 사용하는 백엔드 주니어 개발자입니다. 🖐 <br/>
-최근에는 쿠버네티스 환경의 인프라 운영 및 CI/CD에 관심이 있습니다. <br/>
-
+타입스크립트를 사용하는 백엔드 입니다. 🖐 <br/>
+쿠버네티스 환경의 인프라 운영 및 CI/CD에 관심이 있습니다. <br/>
+최근에는 애플리케이션 성능개선에 집중하고 있습니다. <br/>
 
 #
 ### 활동
@@ -21,7 +21,15 @@
 | ------ | -- |---------------- |
 | 2021.11.15 ~ 2022.05.02|국비지원 수강 | 멀티캠퍼스 시큐어코딩 앱개발과정 수강 |
 | 2022.06.28 ~ 2022.07.29 | 원티드 프리온보딩 백엔드코스 | 기업과제 팀프로젝트 진행   |
+| 2022.10.17 ~ 재직중 | 티오더 | Backend&DevOps (Pro)   |
 
+#
+### 자격증
+| 이름 | 취득일 |
+| ------ | ----------- |
+| 컴퓨터활용능력 1급 | 2020.05 |
+| 정보처리기사 | 2022.11 |
+| CKA | 2024.03 |
 
 #
 ### 프로젝트
