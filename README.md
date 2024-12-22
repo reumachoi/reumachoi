@@ -5,13 +5,10 @@
 </div>
 
 ## Focuse On
-
-- AWS Architecture  
-- Kubernetes
-- DevOps Culture  
-- CI/CD Optimization  
-- SLA/SLO Management 
-- Incident Troubleshooting
+- **Cloud & Infrastructure**: AWS Architecture, IaC, FinOps  
+- **Container & Orchestration**: Kubernetes  
+- **DevOps Practices**: DevOps Culture, CI/CD Optimization, Incident Troubleshooting  
+- **Monitoring & Reliability**: SLA/SLO Management, Service Monitoring
 
 ## Career
 
