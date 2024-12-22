@@ -6,9 +6,12 @@
 
 ## Focuse On
 
-- Software Achitecture (w/ AWS)
+- AWS Architecture  
 - Kubernetes
-- DevOps Culture
+- DevOps Culture  
+- CI/CD Optimization  
+- SLA/SLO Management 
+- Incident Troubleshooting
 
 ## Career
 
@@ -20,11 +23,12 @@
 
 | name               | time    | relations | badge                                                                                   |
 | ------------------ | ------- | --------- | --------------------------------------------------------------------------------------- |
-| 컴퓨터활용능력 1급 | 2020.05 | cs        | -------                                                                                 |
-| 정보처리기사       | 2022.11 | cs        | -------                                                                                 |
-| CKA                | 2024.03 | k8s       | [show](https://www.credly.com/earner/earned/badge/6466967e-8007-4430-acd2-d269b23b45f1) |
-| CKAD               | 2024.05 | k8s       | [show](https://www.credly.com/earner/earned/badge/41faaf60-0eb0-4524-b595-0a7937503a73) |
-| KCNA               | 2024.06 | k8s       | [show](https://www.credly.com/badges/1f8aa97e-aa33-4e24-8df0-833eac89f36e/public_url)   |
+| 컴퓨터활용능력 1급 | 2020.05 | CS        | -------                                                                                 |
+| 정보처리기사       | 2022.11 | CS        | -------                                                                                 |
+| CKA                | 2024.03 | K8s       | [show](https://www.credly.com/earner/earned/badge/6466967e-8007-4430-acd2-d269b23b45f1) |
+| CKAD               | 2024.05 | K8s       | [show](https://www.credly.com/earner/earned/badge/41faaf60-0eb0-4524-b595-0a7937503a73) |
+| KCNA               | 2024.06 | K8s       | [show](https://www.credly.com/badges/1f8aa97e-aa33-4e24-8df0-833eac89f36e/public_url)   |
+| KCSA               | 2024.10 | K8s       | [show](https://www.credly.com/badges/3889411d-e2a4-40b1-85f2-2d87da836bd5/public_url)   |
 
 ## Skills
 
@@ -38,6 +42,11 @@
 
 </div>
 
+## Awards & Achievements
+- AWS APJ GenAI GameDay 2024 - 1st Place in Korea  
+  사내 DevOps 팀으로서 참여하여 우수한 성과를 이루는 데 기여했습니다. ([참고링크](https://www.linkedin.com/posts/austin-kwon-52198b286_tyysnyqys-torder-aws-activity-7238717086615617537-X1wl/?utm_source=share&utm_medium=member_desktop))
+
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reumaco99@gmail.com)](mailto:reumaco99@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/areum-choi9/)
