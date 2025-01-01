@@ -26,6 +26,7 @@
 | CKAD               | 2024.05 | K8s       | [show](https://www.credly.com/earner/earned/badge/41faaf60-0eb0-4524-b595-0a7937503a73) |
 | KCNA               | 2024.06 | K8s       | [show](https://www.credly.com/badges/1f8aa97e-aa33-4e24-8df0-833eac89f36e/public_url)   |
 | KCSA               | 2024.10 | K8s       | [show](https://www.credly.com/badges/3889411d-e2a4-40b1-85f2-2d87da836bd5/public_url)   |
+| CKS               | 2024.12 | K8s       | [show](https://www.credly.com/badges/d81c8665-678e-4ff1-a43a-2c01ce6ae02f/public_url)   |
 
 ## Skills
 
