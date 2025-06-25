@@ -48,6 +48,15 @@
 - AWS APJ GenAI GameDay 2024 - 1st Place in Korea  
   사내 DevOps 팀으로서 참여하여 우수한 성과를 이루는 데 기여했습니다. ([참고링크](https://www.linkedin.com/posts/austin-kwon-52198b286_tyysnyqys-torder-aws-activity-7238717086615617537-X1wl/?utm_source=share&utm_medium=member_desktop))
 
+## Study
+- 잇츠 스터디 1기 – System Design Fight Club (2024)  
+다양한 도메인 기반 시스템 설계 사례를 분석·정리하고, 구조적 설계에 대한 토론에 참여했습니다. ([GitHub 저장소](https://github.com/system-design-club-night/system-design-club-night))
+
+## Others
+- 제이펍 베타리더 (2024–2025)  
+출간 전 기술서에 대한 베타 리뷰 및 피드백 제공했습니다.
+참여 도서: 그린 소프트웨어, 러스트다운 코드, LLM AI Agent, GitHub Action CI/CD, Cursor 바이브 코딩
+
 ## Contact
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:reumaco99@gmail.com)](mailto:reumaco99@gmail.com)
