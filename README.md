@@ -5,7 +5,7 @@
 </div>
 
 ## Focuse On
-- **Cloud & Infrastructure**: AWS Architecture, IaC, FinOps  
+- **Cloud & Infrastructure**: AWS, IaC, FinOps  
 - **Container & Orchestration**: Kubernetes  
 - **DevOps Practices**: DevOps Culture, CI/CD Optimization, Incident Troubleshooting  
 - **Monitoring & Reliability**: SLA/SLO Management, Service Monitoring
@@ -14,7 +14,7 @@
 
 | time             | company | job                  |
 | ---------------- | ------- | -------------------- |
-| 2022.10.17 ~ ing | t'order | Backend&DevOps (Pro) |
+| 2022.10.17 ~ 2025.06.30 | t'order | Backend&DevOps |
 
 ## Certifications
 
@@ -38,9 +38,7 @@
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=for-the-badge&logo=terraform&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
 </div>
 
@@ -54,8 +52,8 @@
 
 ## Others
 - 제이펍 베타리더 (2024–2025)  
-출간 전 기술서에 대한 베타 리뷰 및 피드백 제공했습니다.
-참여 도서: 그린 소프트웨어, 러스트다운 코드, LLM AI Agent, GitHub Action CI/CD, Cursor 바이브 코딩
+출간 전 기술서에 대한 베타 리뷰 및 피드백 제공했습니다.  
+참여 도서: 그린 소프트웨어, 트랜스폼드, 러스트다운 코드, LLM AI 에이전트 개발, GitHub Action CI/CD, Cursor 바이브 코딩
 
 ## Contact
 
